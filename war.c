@@ -39,7 +39,7 @@ int main() {
 
 struct Terrotorio {
 
-char 
+char territorio
 
 }
 
