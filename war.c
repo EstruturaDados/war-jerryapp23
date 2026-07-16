@@ -33,11 +33,16 @@
 // Função principal que orquestra o fluxo do jogo, chamando as outras funções em ordem.
 int main() {
     // 1. Configuração Inicial (Setup):
-#include stdio.h;
+#include <stdio.h>;
 #include stlib.h;
 #include string.h;
 
-struct 
+struct Terrotorio {
+
+char 
+
+}
+
     
     // - Define o locale para português.
     // - Inicializa a semente para geração de números aleatórios com base no tempo atual.
